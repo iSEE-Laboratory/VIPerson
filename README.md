@@ -110,7 +110,6 @@ Please place the downloaded weights into the `checkpoints` directory.
 
 -   [x] Release pre-trained models.
 -   [x] Release the **VIPerson** dataset.
--   [ ] Release the **VIPerson\*** dataset.
 -   [ ] Release inference code and identity generator. 
 -   [ ] Add training scripts for more downstream ReID models.
 
