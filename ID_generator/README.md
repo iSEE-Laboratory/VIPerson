@@ -81,3 +81,19 @@ python persongener_uncondi_new.py
 ```bash
 python persongener_part_dropout.py
 ```
+
+## Acknowledgements
+
+We thank the authors of [IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models](https://arxiv.org/abs/2308.04995) for sharing their work.
+
+```bibtex
+@misc{boutros2023idiffface,
+  title={IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models},
+  author={Fadi Boutros and Jonas Henry Grebe and Arjan Kuijper and Naser Damer},
+  year={2023},
+  eprint={2308.04995},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2308.04995}
+}
+```
